@@ -16,6 +16,6 @@ I had initially come up with the
 # The Characters
 
 <figure>
-  <img src="assets/img/character_ideas.png" alt="Character ideas"/>
+  <img src="{{site.url}}/assets/img/character_ideas.png" alt="Character ideas"/>
   <figcaption>The initial run of character ideas from the first writer's meeting.</figcaption>
 </figure>
