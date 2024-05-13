@@ -30,12 +30,46 @@ Unfortunately, we were only able to run the singular
 
 ## The Characters
 
+In the very first meeting, consisting of myself, Hannah (Events officer, previous chair) and Gable (friend, next chair), we set out to write as many funny character ideas for the ball in five minutes exactly, the result was as follows (FIG. 1).
 <figure>
   <img src="{{site.url}}/assets/img/character_ideas.png" alt="Character ideas"/>
   <figcaption>FIG 1. The initial run of character ideas from the first writer's meeting.</figcaption>
 </figure>
-Once we had decided that we were going to try and run a ball of our own at all, we got down to character writi
+Once we had a big list of character we decided to try and pick the 25 funniest ones, taking into account the different dynamics that some characters might have as pairs, such as **The Astrologer**, and **The Astronomer**. In the end we came to the following list
 
+- The Antiquarian
+- The Army Sergeant
+- The Astrologer
+- The Astronomer
+- The Changeling
+- The Chef
+- The Cultist
+- The Gardener
+- The Ghost
+- The Influencer
+- The Inventor
+- The Investor
+- The Janitor
+- *The Jester*
+- The Lady of the House
+- The Lawyer
+- The Pirate Queen
+- The Pizza Delivery Person
+- ~~The Policeman~~
+- ~~The Politician (A)~~
+- ~~The Politician (B)~~
+- The Priest
+- The Professor
+- The Rat King
+- The Rockstar
+- The Roman Centurion
+- The Scallywag
+- The Sheriff
+- The Time Traveller
+- The Vampire
+- The Victorian Orphan
+
+Naturally, we decided to cut The ~~🐷~~ Policeman for being a little distasteful for a night that was intended to be fore fun, especially with some of the current ongoings on university campus. Additionally, we had thought we wanted 2 politicians of different political party's as two of the characters, and in the middle of the evening were going to hold a political vote for something. The political views of the politicians themselves weren't exactly "spicy" either, as the initial ideas were to have each of them campaigning to remove a different day from the week, being part of the "No Thursday Party" or "Anti Tuesday Party", but ultimately we still decided to cut them for being distasteful.
 ## The Volunteers
 
 ## Catering
