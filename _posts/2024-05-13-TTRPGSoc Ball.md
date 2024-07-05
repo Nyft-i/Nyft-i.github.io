@@ -32,10 +32,16 @@ Unfortunately, we were only able to run the singular
 
 In the very first meeting, consisting of myself, Hannah (Events officer, previous chair) and Gable (friend, next chair), we set out to write as many funny character ideas for the ball in five minutes exactly, the result was as follows (FIG. 1).
 
-<figure style="text-align:center">
+
+
+
+<p align="center">
+  <figure style="text-align:center">
   <img src="{{site.url}}/assets/img/character_ideas.png" alt="Character ideas"/>
   <figcaption>FIG 1. The initial run of character ideas from the first writer's meeting.</figcaption>
-</figure>
+  </figure>
+</p>
+
 
 Once we had a big list of character we decided to try and pick the 25 funniest ones, taking into account the different dynamics that some characters might have as pairs, such as **The Astrologer**, and **The Astronomer**. In the end we came to the following list
 
@@ -74,10 +80,12 @@ Once we had a big list of character we decided to try and pick the 25 funniest o
 Naturally, we decided to cut The ~~Pig~~ Policeman for being a little distasteful for a night that was intended to be fore fun, especially with some of the current ongoings on university campus. Additionally, we had thought we wanted 2 politicians of different political party's as two of the characters, and in the middle of the evening were going to hold a political vote for something. The political views of the politicians themselves weren't exactly "spicy" either, as the initial ideas were to have each of them campaigning to remove a different day from the week, being part of the "No Thursday Party" or "Anti Tuesday Party", but ultimately we still decided to cut them for being distasteful.
 ## The Volunteers
 
-<figure style="text-align:center">
-  <img src="{{site.url}}/assets/img/presentation.png" alt="First volunteer presentation"/>
-  <figcaption>FIG 2. The pitch presentation for the volunteers..</figcaption>
-</figure>
+<p align="center">
+  <figure style="text-align:center">
+  <img src="{{site.url}}/assets/img/presentation.png" alt="Character ideas"/>
+  <figcaption>FIG 2. The pitch presentation for the volunteers.</figcaption>
+  </figure>
+</p>
 ## Catering
 # Student Union
 # 'The Curry Den'
