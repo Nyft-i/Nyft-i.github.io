@@ -69,8 +69,13 @@ Once we had a big list of character we decided to try and pick the 25 funniest o
 - The Vampire
 - The Victorian Orphan
 
-Naturally, we decided to cut The ~~🐷~~ Policeman for being a little distasteful for a night that was intended to be fore fun, especially with some of the current ongoings on university campus. Additionally, we had thought we wanted 2 politicians of different political party's as two of the characters, and in the middle of the evening were going to hold a political vote for something. The political views of the politicians themselves weren't exactly "spicy" either, as the initial ideas were to have each of them campaigning to remove a different day from the week, being part of the "No Thursday Party" or "Anti Tuesday Party", but ultimately we still decided to cut them for being distasteful.
+Naturally, we decided to cut The ~~Pig~~ Policeman for being a little distasteful for a night that was intended to be fore fun, especially with some of the current ongoings on university campus. Additionally, we had thought we wanted 2 politicians of different political party's as two of the characters, and in the middle of the evening were going to hold a political vote for something. The political views of the politicians themselves weren't exactly "spicy" either, as the initial ideas were to have each of them campaigning to remove a different day from the week, being part of the "No Thursday Party" or "Anti Tuesday Party", but ultimately we still decided to cut them for being distasteful.
 ## The Volunteers
+
+<figure>
+  <img src="{{site.url}}/assets/img/presentation.png" alt="First volunteer presentation"/>
+  <figcaption>FIG 2. The pitch presentation for the volunteers..</figcaption>
+</figure>
 
 ## Catering
 ### Student Union
