@@ -2,16 +2,16 @@
 layout: post
 title: "Planning & Running the TTRPGSoc Ball"
 ---
-# Introduction
+### Introduction
 
 The amount of planning that went into the TTRPGSoc (and friends) ball is beyond what you might have expected. If you just showed up and had a good time on the night then I'm happy to hear it, but behind the scenes there were many emails sent.
 
 
 Hello all, hope that you all had a good time at the ball if you managed to secure tickets. I was most impressed by the speed at which they sold out. Our first release tickets were gone in around 3 days but our second release sold out in a mere 4 hours.
 
-# Chapter 1: *Can* we run a ball?
+### Chapter 1: *Can* we run a ball?
 
-Which is a good question, right? TTRPGSoc is a small society in the grand scheme of things, and many of the societies which run an end of year ball are at *least* twice the size of ours.
+Which is a good question, right? TTRPGSoc is a small society in the grand scheme of things, and many of the societies which run an end of year ball are at *least* twice the size of ours. Early in semester 1 of the 2023-2024 school year we had come up with some vague ideas for the 
 
 ## The Team
 Initially the plan was just to have a ball of our own, but limiting the attendance to only those in TTRPGSoc really limits the number of people that are interested in coming. The majority of other societies which host their own ball often have members in the several hundreds, and a society bank account to match. If we wanted to feasibly run this event without going stupendously into debt, we would need some help. Luckily, our very own treasurer (Brian), has a handful of friends on the committees of some clubs which we expected to have a decent interest overlap with our own TTRPGSoc.
@@ -21,20 +21,22 @@ After some correspondence, we were able to setup a meeting with committee member
 Of course, sometime later in planning we were also able to reach out to and invite UOMC to join us, totalling us to the 5 societies we ran with until the end.
 
 
-# Fundraising
+## Fundraising
 
-Unfortunately, we were only able to run the singular 
+Unfortunately, we were only able to run the singular
 
-# Chapter 2: Preperations
+### Chapter 2: Preperations
 ## Writing
 
 ## The Characters
 
 In the very first meeting, consisting of myself, Hannah (Events officer, previous chair) and Gable (friend, next chair), we set out to write as many funny character ideas for the ball in five minutes exactly, the result was as follows (FIG. 1).
-<figure>
+
+<figure style="text-align:center">
   <img src="{{site.url}}/assets/img/character_ideas.png" alt="Character ideas"/>
   <figcaption>FIG 1. The initial run of character ideas from the first writer's meeting.</figcaption>
 </figure>
+
 Once we had a big list of character we decided to try and pick the 25 funniest ones, taking into account the different dynamics that some characters might have as pairs, such as **The Astrologer**, and **The Astronomer**. In the end we came to the following list
 
 - The Antiquarian
@@ -72,14 +74,13 @@ Once we had a big list of character we decided to try and pick the 25 funniest o
 Naturally, we decided to cut The ~~Pig~~ Policeman for being a little distasteful for a night that was intended to be fore fun, especially with some of the current ongoings on university campus. Additionally, we had thought we wanted 2 politicians of different political party's as two of the characters, and in the middle of the evening were going to hold a political vote for something. The political views of the politicians themselves weren't exactly "spicy" either, as the initial ideas were to have each of them campaigning to remove a different day from the week, being part of the "No Thursday Party" or "Anti Tuesday Party", but ultimately we still decided to cut them for being distasteful.
 ## The Volunteers
 
-<figure>
+<figure style="text-align:center">
   <img src="{{site.url}}/assets/img/presentation.png" alt="First volunteer presentation"/>
   <figcaption>FIG 2. The pitch presentation for the volunteers..</figcaption>
 </figure>
-
 ## Catering
-### Student Union
-### 'The Curry Den'
+# Student Union
+# 'The Curry Den'
 
 ## A Piano
 ## The Date
@@ -117,7 +118,7 @@ Spending Breakdown
 | Props & Decorations      | 48       |
 | Total Cost               | 1382     |
 
-# Chapter 3: The Ball
+### Chapter 3: The Ball
 
 ## Morning
 ## Evening
@@ -125,4 +126,4 @@ Spending Breakdown
 
 ## Successes
 
-# Chapter 4: 
+### Chapter 4: 
