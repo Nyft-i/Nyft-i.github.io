@@ -20,20 +20,12 @@ After some correspondence, we were able to setup a meeting with committee member
 
 Of course, sometime later in planning we were also able to reach out to and invite UOMC to join us, totalling us to the 5 societies we ran with until the end.
 
-
-## Fundraising
-
-Unfortunately, we were only able to run the singular
-
 ### Chapter 2: Preperations
 ## Writing
 
 ## The Characters
 
 In the very first meeting, consisting of myself, Hannah (Events officer, previous chair) and Gable (friend, next chair), we set out to write as many funny character ideas for the ball in five minutes exactly, the result was as follows (FIG. 1).
-
-
-
 
 <p align="center">
   <figure style="text-align:center">
@@ -95,11 +87,29 @@ Naturally, we decided to cut The ~~Pig~~ Policeman for being a little distastefu
 
 ## Chaos
 
+
+
 ## Finance
+### Fundraising
+
+Unfortunately, we were only able to run the singular, karaoke social. We're super glad for everyone that came along, as we had no real idea how it was going to go. We also weren't really sure how much money we were supposed to be earning. The amount of money that we could get our hands on really would determine "how big" we could go in the booking.
+
+<p align="center">
+  <figure style="text-align:center">
+  <img src="{{site.url}}/assets/img/karaoke_night.png" alt="Karaoke night "/>
+  <figcaption>FIG 3. The Poster for the karaoke night social.</figcaption>
+  </figure>
+</p>
+The initial plan, however, was to run a whole multitude of different socials between all of the different societies that were collaborating on the project. Some of the ones we had planned were:
+- Puzzle pub crawl
+- Pub quiz
+- Sip & paint miniatures (at Manchester Museum)
+- Come as your character (as inspired by the 2023 social)
+### Budget
+
 From the beginning of planning, the goal for the event has not been to draw in a profit, but to break even. From the very first meeting I had been hammering home this idea that any potential profit would be split exactly 5 ways, and any outstanding additional costs would be covered by TTRPGSoc and the Fundit payment of £400 we received midway through the planning period.
 
 In the end, the major spending and earners were as follows:
-
 
 Budget Breakdown:
 
@@ -126,12 +136,17 @@ Spending Breakdown
 | Props & Decorations      | 48       |
 | Total Cost               | 1382     |
 
+
+
 ### Chapter 3: The Ball
 
 ## Morning
 ## Evening
 ## Challenges
+- 
 
 ## Successes
 
-### Chapter 4: 
+# Conclusion & 2025
+
+Of course, the whole reason I am even writing this all down in the first place is to help next year with 
