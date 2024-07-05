@@ -79,8 +79,13 @@ Naturally, we decided to cut The ~~Pig~~ Policeman for being a little distastefu
   </figure>
 </p>
 ## Catering
-# Student Union
-# 'The Curry Den'
+Using information we had been told from the LGBTSoc ball from the previous year, initially we had fully planned to cater with the SU. Their kitchen is in the venue and they offer quite a decent amount of choice for the price per head (apparently £5). Unfortunately, however, their oven had broken not long before my enquiring about catering, and they therefore were not able to cater for us. Kindly, they did offer for people to come down and eat at 532 Bar + Kitchen, but this wasn't really feasible as they couldn't seat everyone and we would need to be travelling up and down the stair far too much.
+
+Upon hearing this, I immediately got to work in emailing a whole multitude of catering services, and even talking with the SU to their recommendation, and we landed at two possible options.
+
+The first, and cheaper option, was to cater with The Veggie Deli (downstairs in the SU) who had offered to prepare us 80 meals at £5 a head on the day; a phenomenal deal overall. Obviously, those of you who came to the ball know that this is not ultimately how we catered for the ball. The reasoning for this was decided by myself: I'm not sure that everyone would have been thrilled over the options. This was the first ever formal ball from the society and I wanted to really impress with every aspect. I wanted to have a good variety of options for both vegan and vegetarian attendees, and proper "sit down and have dinner" food, where the Veggie Deli is clearly more lunch catering-type food.
+
+Eventually, I got into contact with a company called The Curry Den: a small family run business based in Manchester. We had already been emailing for a while and we had come to an agreement where we could have 3 different curries with varying spice levels, and both meat and vegetarian options available including naan. My biases potentially played a large role in deciding which company to cater with as I adore a curry, but we placed down a deposit as the date was soon approaching, at around £11 per person.
 
 ## A Piano
 ## The Date
@@ -105,6 +110,7 @@ The initial plan, however, was to run a whole multitude of different socials bet
 - Pub quiz
 - Sip & paint miniatures (at Manchester Museum)
 - Come as your character (as inspired by the 2023 social)
+
 ### Budget
 
 From the beginning of planning, the goal for the event has not been to draw in a profit, but to break even. From the very first meeting I had been hammering home this idea that any potential profit would be split exactly 5 ways, and any outstanding additional costs would be covered by TTRPGSoc and the Fundit payment of £400 we received midway through the planning period.
