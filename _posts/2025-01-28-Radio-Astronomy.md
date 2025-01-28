@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: "Amateur Pulsar Astronomy (If you happen to own a 42ft telescope)"
+title: "UNDER CONSTRUCTION | Amateur Pulsar Astronomy (If you happen to own a 42ft telescope)"
 ---
 
 This document (and my interpretation of pulsar astronomy as a whole) is heavily influenced by the layout and workings of the following two books:
