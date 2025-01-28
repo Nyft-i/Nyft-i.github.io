@@ -6,6 +6,7 @@ title: "Amateur Pulsar Astronomy (If you happen to own a 42ft telescope)"
 This document (and my interpretation of pulsar astronomy as a whole) is heavily influenced by the layout and workings of the following two books:
 - A. Lyne , F. Graham-Smith F. _Pulsar Astronomy_. 4th ed. Cambridge University Press; 2012.
 - D. R. Lorimer, M. Kramer. _Handbook of Pulsar Astronomy_. Cambridge: Cambridge University Press, 2005.
+
 I highly recommend the both of them. The former, *Pulsar Astronomy*, is my personal favourite of the two, and delves better into the theory aspect of neutron stars. The latter, *Handbook of Pulsar Astronomy*, talks a lot more about instrumentation and methodology, which is very useful for the experiment. Both are "available" in the library, though your mileage may vary.
 
 So you've been selected for the Crab Pulsar lab. I've decided to write my own pseudo-lab-script, which can be read alongside the real lab script, providing some personal insight on what I found useful on a rather involved but very interesting experiment. 
