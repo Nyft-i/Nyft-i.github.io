@@ -35,27 +35,41 @@ The times I've put in brackets are rough estimates of how long it took myself an
 ## Basic Radiometer System
 
 There's some important concepts in radio astronomy. The first we will tackle is as follows: "Why do we need a dish". The answer is obviously to collect more light. We can put this into numbers using "Gain". We must first understand directivity, a measure of how much of the sky you are looking at:
+
 $$D = \frac{4\pi}{\Omega_A}.$$
+
 Where $\Omega_A$ is the solid angle of the sky which your beam covers. It can be seen that this is simply the inverse of the fraction of sky which the telescope beam covers. 
 
 Gain, different from the value given in the exam script, and denoted as such here as $G'$ to reduce confusion, is given by the equation $G'=D\eta$.
+
 $$G' = \eta D = \eta \frac{4\pi}{\Omega_A}$$
+
 Its easiest to think of this in terms of an emitter, rather than a receiver. A system emitting isotropically will follow the inverse square law, reducing with distance from the source, such as a star. Now, if you emitted the same amount of energy using an antenna, the flux at the same distance would be multiplied by the gain.
 
 We still need more tools to derive the equation provided in the lab script, another is the Antenna Theorem. Suppose we put an antenna in a blackbody cavity: an isolated box which no light can escape.
 ![[Pasted image 20250114230720.png]]After some time, this whole system will be in thermodynamic equilibrium. The part of the cavity which the beam can see (i.e. subtends solid angle $\Omega_A$), radiates at its blackbody temperature,
+
 $$B_\nu=\frac{2k_BT}{\lambda^2} \; \text{Wm}^{-2}\text{Hz}^{-1}\text{sr}^{-1},$$
+
 where we have taken the Rayleigh-Jeans limit (citaion needed). The power then collected by the receiver is given by,
+
 $$P_{\text{rec}}=\frac{k_BT}{\lambda^2} A_e \Omega_A \; \text{W}\text{Hz}^{-1}.$$
+
 We have multiplied by the effective area of the antenna, $A_e=\eta A$, and the solid angle of the beam, $\Omega_A$. Additionally, we have lost a factor of two as the antenna can only collect power from a single polarisation. In thermodynamic equilibrium, the receiver has matched the load resistor, shown on the right at temperature $T$, which produces transferrable power $k_BT$ (per unit bandwidth). We can set this equal to our previous expression to obtain the "Antenna Theorem":
+
 $$P_\text{rec}=\frac{k_BT}{\lambda^2}A_e\Omega_A=k_BT$$
+
+
 $$A_e\Omega_A= \lambda^2$$
+
 
 
 
 
 Interestingly, the lab script defines gain differently to how it is 
 ... given by the Radiometer equation:
+
 $$\Delta T_\text{rms} = \frac{T_\text{sys}}{\sqrt{\Delta\nu \:\tau}}$$
+
 You'll notice this is very similar to the equation given in the lab script. It describes how observation bandwidth, observation time and system temperature all influence the random statistics on *measurable* readings. The "temperature" of the source needs to exceed this value, $\Delta T_\text{rms}$. Intuitively, this makes sense. Your receiver system needs to see have the signal appear more significantly than the average size of the fluctuations.
 ## Heterodyne Receiver System (42ft Telescope)
