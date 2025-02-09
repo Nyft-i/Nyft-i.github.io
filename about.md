@@ -10,7 +10,7 @@ Hey, my name is Jade Salisbury. I'm an undergraduate Physicist at the University
 
 # Name 
 
-The website name is an interesting one. For the last couple of years I have really discovered my passion in Physics, which I have found to be pulsar astronomy.
+The website name is an interesting one. For the last couple of years I have really discovered my passion in Physics, which I have found to be pulsar astronomy. This became known between myself and all my friends, therefore I eventually became known as "the pulsar bitch". Naturally, this is not said maliciously, and I have since grown quite fond of the title.
 
 # Website
 

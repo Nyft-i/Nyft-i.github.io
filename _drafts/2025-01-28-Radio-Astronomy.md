@@ -52,7 +52,7 @@ We still need more tools to derive the equation provided in the lab script, anot
 
 $$B_\nu=\frac{2k_BT}{\lambda^2} \; \text{Wm}^{-2}\text{Hz}^{-1}\text{sr}^{-1},$$
 
-where we have taken the Rayleigh-Jeans limit (citaion needed). The power then collected by the receiver is given by,
+where we have taken the Rayleigh-Jeans limit (citation needed). The power then collected by the receiver is given by,
 
 $$P_{\text{rec}}=\frac{k_BT}{\lambda^2} A_e \Omega_A \; \text{W}\text{Hz}^{-1}.$$
 
@@ -62,11 +62,6 @@ $$P_\text{rec}=\frac{k_BT}{\lambda^2}A_e\Omega_A=k_BT$$
 
 
 $$A_e\Omega_A= \lambda^2$$
-
-
-
-
-
 Interestingly, the lab script defines gain differently to how it is 
 ... given by the Radiometer equation:
 
