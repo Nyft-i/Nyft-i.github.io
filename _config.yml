@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: PulsarBitch.com
+title: jade salisbury | blog
 email: jade.salisbury@student.manchester.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   I am an undergraduate astrophysicist with an express interest in pulsars (hence the name). This website is for my personal projects and a place where I can write and release my
