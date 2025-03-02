@@ -165,3 +165,46 @@ This means that it has a kinetic energy of $\frac{1}{2}mv^2=7.35\times 10^{-7}\t
 - theoretical limits
 - mass/dipolar asymmetry
 - ligo - merging neutron stars/quickly orbiting
+
+# Slide 1
+# Slide 2
+# Slide 3
+# Slide 4
+# Slide 5
+- JBB was at this point quite familiar with the Cambridge Interplanetary Scintillation Array (IPS Array)
+- Noticed what she referred to as scruff
+	- Wasn't a quasar, wasn't scintillation but also wasn't interference.
+	- She noticed that when it did appear, it appeared 4minutes earlier every night. This corresponds to an extrasolar signal.
+- Therefore she decided to do the same observations with a higher time resolution.
+- Since the array only rotated with the earth, JBB had to arrange her schedule around the radio source.
+- For many weeks in October the pulses appeared to have stopped. 
+- Over the weeks this source was named as a pulsar to the team at cambridge, reminiscent of the Quasar.
+
+# Slide 6
+- JBB and Hewish did a lot of these high resolution surveys over the next few weeks.
+- Hewish initially stated that the signal must be of earth origin. It must be interference
+- Another from the team, John Pilkington, observed the pulsar at a different frequency
+	- Different frequency pulses arrived at a different time due to frequency dependent scattering effects in the interstellar medium
+	- Found to be 1000ly away.
+- Dawned on the team that it may be emitted by intelligent life, it was almost jokingly dubbed "LGM-1" or the "little green men" signal.
+- How do you responsibly announce a potential finding of aliens? What if you're wrong. Need to be 100% sure.
+	- Results took 8 weeks from discovery to be published. Received a lot of backlash over "hiding" scientific results
+
+# Slide 7
+- JBB seemed very annoyed 
+- So how did they know they weren't aliens?
+- Unlikely that extra-terrestrial life would pick the same frequency as many other emitting sources, competing for signal strength
+	- Intelligent life maybe picked this frequency because they knew scientists would be looking at it.
+	- There were "quieter bands available".
+- Hewish wanted to make sure that the origin of the signal was not a planet orbiting a star.
+	- Hewish tested for the effects of doppler shift within the received signal, like an orbiting planet would exhibit.
+	- The signal did not originate from a planet orbiting a star
+- Many high time-resolution samples of the sky were being taken still.
+	- All manual, JBB spent many nights manning the observations.
+	- Just before Christmas in 1967, observing a new portion of the sky when she spotted some now familiar scruff.
+	- Another pulsar!
+	- Unlikely that two alien civilisations would reach out on the same frequency to the same planet.
+
+# Slide 8
+- Survey kept going over Christmas and by the time everyone had returned to the lab and analysed the new data, they had discovered a total of 4 radio pulsars.
+- 
