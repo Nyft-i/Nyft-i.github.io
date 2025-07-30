@@ -40,7 +40,7 @@ Pyria Ornthalas. That’s her.
 
 One moment reader. Then we can begin.
 
-<p align="center">-- [Chapter 1]({% link _posts/2025-07-30-Rot-and-Ruin-1}) --</p>
+<p align="center">-- [Chapter 1]({% link /2025-07-30-Rot-and-Ruin-1}) --</p>
 
 
 
