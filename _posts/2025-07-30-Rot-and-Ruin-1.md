@@ -164,7 +164,7 @@ title: Rot and Ruin | Chapter 1 - Preparations
 &nbsp;&nbsp;&nbsp;&nbsp;In defeated acceptance, Tibs speaks “Fine. Where are we going with them?”
 {: style="text-align: justify;"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;“You’ve done Carrae-cairn before. Load them onto the cart and we’ll all head over to the cairn in… let's say half an hour? Inform the rest of the grove. Make sure to wake Miylik.”
+&nbsp;&nbsp;&nbsp;&nbsp;“You’ve done Carrae-cairn before. Load them onto the cart and we’ll all head over to the cairn in… let's say half an hour? Inform the rest of the grove. Make sure to wake Miylik, and get him to wake the others.”
 {: style="text-align: justify;"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;“Understood, miss.” The group of teens and young adults work quickly in distributing the task amongst themselves and leave Pyria’s hut a few moments later.
