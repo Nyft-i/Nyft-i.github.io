@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 tags: fiction almara
 title: "Rot and Ruin | Prologue"
@@ -40,7 +40,7 @@ Pyria Ornthalas. That’s her.
 
 One moment reader. Then we can begin.
 
-<p align="center">-- [Chapter 1](test) --</p>
+<p align="center">-- [Chapter 1 - Preparations]({% link 2025-07-30-Rot-and-Ruin-1.md %}) --</p>
 
 
 
