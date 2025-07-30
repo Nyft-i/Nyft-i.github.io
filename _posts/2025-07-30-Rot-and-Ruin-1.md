@@ -5,6 +5,8 @@ tags:
   - almara
 title: Rot and Ruin | Chapter 1 - Preparations
 ---
+<p align="center">-- <a href="{% post_url 2025-07-30-Rot-and-Ruin-0 %}">Prologue</a> --</p>
+
 &nbsp;&nbsp;&nbsp;&nbsp;Pyria cries a lot these days. She doesn't let anybody see that she's upset though; there are too many people that rely on her, she tells herself. She knows that's not completely true though, but it's what her family had always told her. Her old family. Nowadays, she's surrounded by people who care about her plentifully. They understand her struggles, but, to her credit, they do rely on her. She knows that if she were to show weakness, it would not be judged. It would probably help her out. But she can't bring herself to do so. She still has a point to prove.
 {: style="text-align: justify;"}
 
@@ -172,3 +174,5 @@ title: Rot and Ruin | Chapter 1 - Preparations
 
 &nbsp;&nbsp;&nbsp;&nbsp;She appreciates the following silence, but wastes no time in moving onto her next task: she must be dressed for the occasion.
 {: style="text-align: justify;"}
+
+<p align="center">-- Chapter 2: Soon(ish) --</p>
