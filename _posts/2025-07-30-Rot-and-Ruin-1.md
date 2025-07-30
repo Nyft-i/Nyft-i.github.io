@@ -1,11 +1,9 @@
+---
 layout: post
 tags: fiction almara
 title: "Rot and Ruin | Chapter 1 - Preperations"
 ---
-
-  
-
-Pyria cries a lot these days. She doesn't let anybody see that she's upset though; there are too many people that rely on her, she tells herself. She knows that's not completely true though, but it's what her family had always told her. Her old family. Nowadays, she's surrounded by people who care about her plentifully. They understand her struggles, but, to her credit, they do rely on her. She knows that if she were to show weakness, it would not be judged. It would probably help her out. But she can't bring herself to do so. She still has a point to prove.
+<p>Pyria cries a lot these days. She doesn't let anybody see that she's upset though; there are too many people that rely on her, she tells herself. She knows that's not completely true though, but it's what her family had always told her. Her old family. Nowadays, she's surrounded by people who care about her plentifully. They understand her struggles, but, to her credit, they do rely on her. She knows that if she were to show weakness, it would not be judged. It would probably help her out. But she can't bring herself to do so. She still has a point to prove.</p>
 
 It's been years since she saw her family. Her family by blood. The name which haunts her, that which follows her just as much as her actual, much more tangible scars. Ornthalas. But of course, she doesn't remember, and has never been able to do so. Sometimes, she gets flashes: brief moments of reprieve from amnesia. However, the more that she remembers, the less sure she is that she wants to understand the whole picture. That, of course, is another lie that she tells herself. She would give nothing more than to understand all the events that led to where she is now. To be the captain at the helm of her life, a life where she currently resides as a singular cog in a much larger system, designed by another.
 
@@ -94,7 +92,7 @@ To help the druids in their pursuit, it has been much more effective for them to
 As a result, the surrounding area from their chosen settlement location has become somewhat of a haven from the toughness of the elements in the desert. Sand transmuted to dirt and grass; cacti transformed into grand, old trees, older than they ever could have been naturally. All of these changes were an unintentional but appreciated side-effect from the increased use of nature magics performed by a flock of druids, allowed to thrive now that they have remained in one place for long enough.
 
 Tibs leisurely strolls towards Pyria until she notices Pyria has an eyebrow raised in concern. It takes Tibs only a second to understand Pyria is concerned about the time. Tibs gestures to Skurm and her friends to hurry with her, and they all jog towards Pyria.
-
+ 
 “What’s up, Great Pyria?” Tibs asks, harboring a blank stare. She knows what Pyria wants. She does not want to carry anything.
 
 “Drop the formalities Tibs. No elders about here. They’re already sleeping. Napping rather–in preparation for the ceremony.”
