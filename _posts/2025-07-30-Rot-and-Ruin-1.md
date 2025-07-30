@@ -8,10 +8,10 @@ title: Rot and Ruin | Chapter 1 - Preparations
 &nbsp;&nbsp;&nbsp;&nbsp;Pyria cries a lot these days. She doesn't let anybody see that she's upset though; there are too many people that rely on her, she tells herself. She knows that's not completely true though, but it's what her family had always told her. Her old family. Nowadays, she's surrounded by people who care about her plentifully. They understand her struggles, but, to her credit, they do rely on her. She knows that if she were to show weakness, it would not be judged. It would probably help her out. But she can't bring herself to do so. She still has a point to prove.
 {: style="text-align: justify;"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;It's been years since she saw her family. Her family by blood. The name which haunts her, that which follows her just as much as her actual, much more tangible scars. Ornthalas. But of course, she doesn't remember, and has never been able to do so. Sometimes, she gets flashes: brief moments of reprieve from amnesia. However, the more that she remembers, the less sure she is that she wants to understand the whole picture. That, of course, is another lie that she tells herself. She would give nothing more than to understand all the events that led to where she is now. To be the captain at the helm of her life, a life where she currently resides as a singular cog in a much larger system, designed by another.
+&nbsp;&nbsp;&nbsp;&nbsp;It's been years since she saw her family. Her family by blood. The name which haunts her, that which follows her just as much as her actual, much more tangible scars. *Ornthalas*. But of course, she doesn't remember, and has never been able to do so. Sometimes, she gets flashes: brief moments of reprieve from amnesia. However, the more that she remembers, the less sure she is that she wants to understand the whole picture. That, of course, is another lie that she tells herself. She would give nothing more than to understand all the events that led to where she is now. To be the captain at the helm of her life, a life where she currently resides as a singular cog in a much larger system, designed by another.
 {: style="text-align: justify;"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;There’s plenty that’s interesting about Pyria now, though, and it would be hardly very profound or respectful of her privacy to tell you every one of her innermost desires and vices, stemming from a deeply troubling life starting long before today. Returning to what our protagonist is up to, it would be clear to anyone that she has been crying. Recently, even. Two faint dried streams mark lines in makeup that would otherwise be too subtle to notice. She notes that very slight sensory difference that dried tears make on skin and sets down her pen. She reaches for her handkerchief and waterskin, gently pouring as little of the contents as possible into a small section of the cloth, pooled in her palm. Taking a final, shaky inhale, marking a point where she tells herself to stop crying, she collectedly dabs under her eyes.
+&nbsp;&nbsp;&nbsp;&nbsp;There’s plenty that’s interesting about Pyria now, though, and it would be hardly very profound or respectful of her privacy to tell you every one of her innermost desires and vices, stemming from a deeply troubling life starting long before today. Returning to what our protagonist is up to, it would be clear to anyone that she *has* been crying. Recently, even. Two faint dried streams mark lines in makeup that would otherwise be too subtle to notice. She notes that very slight sensory difference that dried tears make on skin and sets down her pen. She reaches for her handkerchief and waterskin, gently pouring as little of the contents as possible into a small section of the cloth, pooled in her palm. Taking a final, shaky inhale, marking a point where she tells herself to *stop crying*, she collectedly dabs under her eyes.
 {: style="text-align: justify;"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;Setting down the cloth, Pyria shifts her body slightly to catch a glance of herself in a small desk-mirror, checking her tear-tracts. Through her eyes, looking back at herself, she sees an ingenuine smile across the face of the figure in the mirror. She wants to be unrecognisable, she wants to move on from her past life, but staring back at her is exactly who she has been since her young adult life began, some decades back.
@@ -20,7 +20,7 @@ title: Rot and Ruin | Chapter 1 - Preparations
 &nbsp;&nbsp;&nbsp;&nbsp;Granted, there are certainly changes. Her once pale and fair skin is now significantly tanned through repeated exposure to the sun since her exit from the city. Similarly, her pointed ears have clearly suffered blisters for the same reason. Her once beautifully tended hair, while still the same colour, does not receive the same attention these days. Instead, she simply slicks it back to a tight bun; it’s more practical that way. But under it all, the eyes which stare back at her are still a brilliant viridian green, and her characteristically defining layer of freckles still lie on her upper cheeks, only exaggerated by the sun.
 {: style="text-align: justify;"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;She concludes that she looks okay. Back to the desk. Let’s get this over with, she thinks to herself. Quickly, and with evident purpose, she folds together the parchment on which she was writing to and begins searching the side drawers in her desk for an envelope. If you were wondering why she was crying, it’s because the contents of this letter mark an endpoint in her life. It’s to an old friend, one whom she fell out of touch with, for one reason or another. Even she’s not sure what that reason is.
+&nbsp;&nbsp;&nbsp;&nbsp;She concludes that she looks okay. Back to the desk. *Let’s get this over with*, she thinks to herself. Quickly, and with evident purpose, she folds together the parchment on which she was writing to and begins searching the side drawers in her desk for an envelope. If you were wondering why she was crying, it’s because the contents of this letter mark an endpoint in her life. It’s to an old friend, one whom she fell out of touch with, for one reason or another. Even she’s not sure what that reason is.
 {: style="text-align: justify;"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;But it’s fine. This is her moving on. She continues to struggle through the drawers. There’s plenty of envelopes (she sends a lot of letters) but she needs one very specific envelope. One that she can be one-hundred percent certain will arrive, which is a useful tool when you’re not sure why somebody is ignoring you. 
@@ -38,7 +38,7 @@ title: Rot and Ruin | Chapter 1 - Preparations
 
   
 
-&nbsp;&nbsp;&nbsp;&nbsp;Where is it? 
+&nbsp;&nbsp;&nbsp;&nbsp;*Where is it?* 
 {: style="text-align: justify;"}
 
   
@@ -48,7 +48,7 @@ title: Rot and Ruin | Chapter 1 - Preparations
 
   
 
-&nbsp;&nbsp;&nbsp;&nbsp;Where the fuck is it!? 
+&nbsp;&nbsp;&nbsp;&nbsp;*Where the fuck is it!?* 
 {: style="text-align: justify;"}
 
   
@@ -56,7 +56,7 @@ title: Rot and Ruin | Chapter 1 - Preparations
 &nbsp;&nbsp;&nbsp;&nbsp;Pyria slams her fist onto the table in frustration. She stops herself momentarily. 
 {: style="text-align: justify;"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;Breathe. She breathes, calmly. Inhale. Exhale. Repeat. Restarting her search, she deliberately removes the contents of the drawers, and steadily sifts through one pile, placing each item into a separate pile as she notes its not-envelopeness.
+&nbsp;&nbsp;&nbsp;&nbsp;*Breathe*. She breathes, calmly. Inhale. Exhale. Repeat. Restarting her search, she deliberately removes the contents of the drawers, and steadily sifts through one pile, placing each item into a separate pile as she notes its not-envelopeness.
 {: style="text-align: justify;"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;It takes less than a minute for her to find what she’s searching for. Victorious (and relieved), she replaces the drawer contents and twists her body to return front face at her desk, now with all the major elements in tow required for sending a letter (minus the stamp, but as we’ll see, Pyria has a workaround).
@@ -74,13 +74,13 @@ title: Rot and Ruin | Chapter 1 - Preparations
 &nbsp;&nbsp;&nbsp;&nbsp;Grove Kino, named by Pyria after an old friend of hers, is home to a group of druids which share a namesake with their location: The Druids of Grove Kino, as led by Pyria, the Great Druid of Grove Kino. If it’s unclear what a druid is, they’re similar to wizards, but with nature. If it’s unclear what a wizard is, the majority of this world calls them “arcano physicists”, but I’m old-fashioned.
 {: style="text-align: justify;"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;Now, aside from all the interesting parts I mentioned above, the act of sending a letter isn’t interesting. On the other hand, today is interesting. As any other year, the 5th Torday of Xin can only mean a celebration (in most cultures)! Now, although I’m certain you already know, this is the exact date on which Carrae-cairn lies. It’s quite unfortunate to be so close to the Xinishi festival, and as a result a small chunk of those people who rely on Pyria at the grove have taken leave for a few days, ever so slightly lightening the load of leadership on a culturally significant day. What would normally be an annoyance is welcomed, even if the effect is negligible.
+&nbsp;&nbsp;&nbsp;&nbsp;Now, aside from *all* the interesting parts I mentioned above, the act of sending a letter isn’t interesting. On the other hand, today is interesting. As any other year, the 5th Torday of Xin can only mean a celebration (in most cultures)! Now, although I’m certain you already know, this is the exact date on which Carrae-cairn lies. It’s quite unfortunate to be so close to the Xinishi festival, and as a result a small chunk of those people who rely on Pyria at the grove have taken leave for a few days, ever so slightly lightening the load of leadership on a culturally significant day. What would normally be an annoyance is welcomed, even if the effect is negligible.
 {: style="text-align: justify;"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;Pyria had never been one to celebrate Carrae-cairn. It’s not a holiday she remembers growing up with, and even the earliest years where her memory resumes, it’s not something that is typically celebrated in the city. The previous year, following the resignation of her predecessor, she had opted to give the ceremony despite her non-celebration, for the benefit of her peers at the grove. Pyria, like many good leaders in this world, understands how important it is to honour the dead, even outside of traditions. This year she plans to celebrate with the grove. After all, she finally has reason to. 
 {: style="text-align: justify;"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;Carrae-cairn is of particular importance to druids, and is especially culturally significant this close to the wall (a point we shall return to). While strictly, Carrae-cairn only describes the ceremony which takes place later today at sundown, generations of druids and the ancestors of surrounding groves have, over centuries, spun the holiday into a celebration of life; much more apt and representative of their goal at Grove Kino, to heal. Much more indicative of their beliefs: it is not druidlike to dwell on loss, their life should instead be celebrated and remembered. Healing from a loss is encouraged in a society like this. It makes one stronger.
+&nbsp;&nbsp;&nbsp;&nbsp;Carrae-cairn is of particular importance to druids, and is especially culturally significant this close to the wall (a point we shall return to). While strictly, Carrae-cairn only describes the ceremony which takes place later today at sundown, generations of druids and the ancestors of surrounding groves have, over centuries, spun the holiday into a celebration of life; much more apt and representative of their goal at Grove Kino, to *heal*. Much more indicative of their beliefs: it is not druidlike to dwell on loss, their life should instead be celebrated and remembered. Healing from a loss is encouraged in a society like this. It makes one stronger.
 {: style="text-align: justify;"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;Pyria stands. She pushes the chair neatly under the desk in a juxtaposition of the clutter which lies atop. Addressing her surroundings, she recalls that Tibs, her most promising trainee (in magics and little else), had made her aware that the ritual stones had been prepared earlier, and placed somewhere in her hut. It takes her a moment to spot them, but as expected, a heaped bundle of flat, smooth stones is laid by the door.
