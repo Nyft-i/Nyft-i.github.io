@@ -43,4 +43,4 @@ One moment reader. Then we can begin.
 <p align="center">-- [Chapter 1 - Preparations]({% post_url 2025-07-30-Rot-and-Ruin-1 %}) --</p>
 
 
-
+<p align="center">-- <a href="{% post_url 2025-07-30-Rot-and-Ruin-1 %}">Chapter 1 - Preparations</a> --</p>
