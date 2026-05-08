@@ -5,6 +5,7 @@ permalink: /undergrad/
 ---
 
 As mentioned elsewhere on this website, I am an undergraduate at the University of Manchester. As such, I have produced several works for my degree which I will link below:
+
 # Lab work (Y3)
 My third year lab work is a little more competent than the prior years. I am quite proud particularly of the latter project. Incidentally the project involving the Crab pulsar was my first time interacting with pulsars in any capacity.
 
@@ -32,7 +33,7 @@ In the first 2 years of my undergrad I produced a whole host of experiment write
 | High Resolution Gamma Ray Spectroscopy | [pdf](assets/pdf/jsalis_high-res_gamma_ray_spectroscopy.pdf) |
 
 ## Graduating Grades
-Below are a complete list of the modules I took in my undergrad and masters, including their course code and my grade. Courses marked with an (M) are considered mathematically involved/difficult by the university. Lab and MPhys modules are weighted double. My final grade upon finishing my undergrad was a **First Class (**
+Below are a complete list of the modules I took in my undergrad and masters, including their course code and my grade. Courses marked with an (M) are considered mathematically involved/difficult by the university. Lab and MPhys modules are weighted double. My final grade upon finishing my undergrad was a **First Class (75.3%)**.
 
 ### Y1 (2021/2022)
 
@@ -93,8 +94,8 @@ Year grade: 74.8% (weighted 37.5)
 | Module Code | Module Title                     | Grade |
 | ----------- | -------------------------------- | ----- |
 | PHYS 30611  | Lasers and Photonics             | 63    |
-| PHYS 40181  | MPhys Project                    | 73    |
-| PHYS 40182  | MPhys Project                    | 78    |
+| PHYS 40181  | MPhys Project Sem 1              | 73    |
+| PHYS 40182  | MPhys Project Sem 2              | 78    |
 | PHYS 40521  | Frontiers of Particle Physics I  | 86    |
 | PHYS 40591  | Radio Astronomy                  | 74    |
 | PHYS 40622  | Nuclear Forces and Reactions     | 75    |
