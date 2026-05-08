@@ -49,7 +49,9 @@ Below are a complete list of the modules I took in my undergrad and masters, inc
 | PHYS 10372  | Mathematics 2                              | 77    |
 | PHYS 10461  | Physics in Everyday Life                   | 77    |
 | PHYS 10692  | Physics of the Solar System 10             | 88    |
+
 Year grade: 82% (weighted 6)
+
 ### Y2 (2022/2023)
 
 | Module Code | Module Title                               | Grade |
@@ -65,7 +67,9 @@ Year grade: 82% (weighted 6)
 | PHYS 20491  | Galaxies                                   | 76    |
 | PHYS 20612  | Introduction to Photonics                  | 84    |
 | PHYS 20692  | Astrophysical Processes                    | 88    |
-Year grade: 79.3% (weighted 19 )
+
+Year grade: 79.3% (weighted 19)
+
 ### Y3 (2023/2024)
 
 | Module Code | Module Title                                 | Grade |
@@ -81,7 +85,9 @@ Year grade: 79.3% (weighted 19 )
 | PHYS 30692  | Stars and Stellar Evolution                  | 59    |
 | PHYS 30762  | Object-Oriented Programming in C++           | 77    |
 | PHYS 40222  | Particle Physics                             | 73    |
+
 Year grade: 74.8% (weighted 37.5)
+
 ### Y4 (2024/2025)
 
 | Module Code | Module Title                     | Grade |
@@ -96,4 +102,5 @@ Year grade: 74.8% (weighted 37.5)
 | PHYS 40771  | Gravitation (M)                  | 78    |
 | PHYS 40772  | Early Universe                   | 46    |
 | PHYS 40992  | Galaxy Formation                 | 72    |
+
 Year grade: 72.8% (weighted 37.5)

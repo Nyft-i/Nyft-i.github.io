@@ -15,7 +15,7 @@
               "state": {
                 "file": "undergrad.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "undergrad"
@@ -200,7 +200,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a02da1137b48bbd",
+  "active": "633315fa720fb955",
   "lastOpenFiles": [
     "about.md",
     "assets/img/rot_and_ruin.png",
