@@ -21,7 +21,7 @@
 title: jade salisbury | blog
 email: jsalisbury@swin.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
-  I'm an astromony PhD student at Swinburne, Australia from Manchester, England. My research interests include anything radio transient, particularly Magnetars, Pulsars and FRBs. I also think that people are much more interested in what I have to say than they actually are.
+  I'm an astromony PhD student at Swinburne, Australia from Manchester, England. My research interests include anything radio transient, particularly magnetars, pulsars and FRBs. I also think that people are much more interested in what I have to say than they actually are.
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: Nyft-i.github.io
 url: "https://Nyft-i.github.io" # the base hostname & protocol for your site, e.g. http://example.com
