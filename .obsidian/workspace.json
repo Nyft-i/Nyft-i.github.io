@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2025-02-09-Radio-Astronomy.md",
+                "file": "_drafts/2025-07-30-Rot-and-Ruin-0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-09-Radio-Astronomy"
+              "title": "2025-07-30-Rot-and-Ruin-0"
             }
           },
           {
@@ -167,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -177,11 +178,13 @@
   },
   "active": "3a02da1137b48bbd",
   "lastOpenFiles": [
+    "_posts/2025-02-18-Diary-1.md",
+    "_posts/2025-02-09-Radio-Astronomy.md",
+    "about.md",
     "_site/2025/02/09/Radio-Astronomy.html",
     "_site/2025/02/09",
     "_site/2025/02",
     "_drafts/2024-05-13-TTRPGSoc Ball.md",
-    "_posts/2025-02-09-Radio-Astronomy.md",
     "_site/2025/01/28/Radio-Astronomy.html",
     "_site/2025/01/28",
     "_site/2025/01",
@@ -200,8 +203,6 @@
     "_site/assets/img/pulsar.png",
     "assets/pdf/jsalis_improving_pulsar_timing_precision_i.pdf",
     "projects.md",
-    "_site/projects/index.html",
-    "about.md",
     "assets/Untitled.md",
     "_site/assets/Untitled.md",
     "_site/projects.md",
