@@ -7,7 +7,7 @@ tags:
   - astronomy
 layout: post
 ---
-A LaTeX document of this information is available [here as a pdf](assets/pdf/jsalis_observing_c3772_atca.pdf).
+A LaTeX document of this information is available [here as a pdf]({{ site.baseurl }}/assets/pdf/jsalis_observing_c3772_atca.pdf).
 # 1. Load the schedule file 
 - `set file c3772_psr`
 	- Do this in the black window in the first desktop (top right)
